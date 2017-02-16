@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9e9e9e</color>
+    <color name="colorPrimaryDark">#424242</color>
+    <color name="colorAccent">#009688</color>
+
+    <color name="btn_gallery">#69F0AE</color>
+
+    <color name="btn_take_photo">#F50057</color>
+
+    <color name="background">#424242</color>
+
+    <color name="btn">#FF1744</color>
+
+    <color name="btn_plus">#757575</color>
+
+    <color name="btn_order">#455A64</color>
+
+
+</resources>
